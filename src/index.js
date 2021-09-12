@@ -8,7 +8,9 @@ import Formulario from './main/Formulario';
 ReactDOM.render(
     <div>
         <Formulario />
+        
     </div>
+    
     ,document.getElementById('root')
 );
 
